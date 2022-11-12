@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Playfair+Display+SC&display=swap');
+
+:root{
+    --dark: #374151;
+    --darter: #1f2937;
+    --darkest: #111827;
+    --gray: #687280;
+    --light: #EEE;
+    --pink: #Ec4899;
+    --purple:#885cf6;
+}
